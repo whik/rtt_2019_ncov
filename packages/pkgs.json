@@ -1,0 +1,27 @@
+[
+ {
+  "path": "/packages/iot/webclient", 
+  "ver": "v2.1.2", 
+  "name": "WEBCLIENT"
+ }, 
+ {
+  "path": "/packages/iot/cJSON", 
+  "ver": "v1.0.2", 
+  "name": "CJSON"
+ }, 
+ {
+  "path": "/packages/iot/netutils", 
+  "ver": "v1.1.0", 
+  "name": "NETUTILS"
+ }, 
+ {
+  "path": "/packages/iot/at_device", 
+  "ver": "v2.0.3", 
+  "name": "AT_DEVICE"
+ }, 
+ {
+  "path": "/packages/security/mbedtls", 
+  "ver": "v2.7.10", 
+  "name": "MBEDTLS"
+ }
+]
